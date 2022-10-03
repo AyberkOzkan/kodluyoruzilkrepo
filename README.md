@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://kodluyoruz.org) ve [Patika](https://www.patika.dev) tarafından verilen GIT Eğitiminde oluşturduğum repodur. İçerisinde bir adet *README* dosyası, bir adet de *index.html* barındırıyor.
 
-
+![kodluyoruz](kodluyoruzilkrepo.JPG)
 
 ## **Installation**
 
